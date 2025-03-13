@@ -30,10 +30,10 @@ Hey, I’m **Alfred**, a **full-stack developer** thriving in the **Web3** space
 ## 🌎 Connect in the Metaverse! 🛸
 💬 Always down to chat blockchain, tech, and gaming! Let’s **BUIDL** the future together.
 
-- 🐦 Twitter: [@YourHandle](https://twitter.com/yourhandle)
-- 🏗 GitHub: [@Alfred](https://github.com/yourgithub)
-- 💬 Discord: `yourdiscord#1234`
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
+- 🐦 Twitter: [@xaidenlabs](https://twitter.com/xaidenlabs)
+- 🏗 GitHub: [@xaidenlabs](https://github.com/SWITLYF)
+- 💬 Discord: `@xaidenlabs`
+- 🌐 Portfolio: [www.xaidenlabs.com.ng](https://xaidenlabs.com.ng)
 
 ---
 
