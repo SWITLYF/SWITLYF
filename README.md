@@ -1,5 +1,3 @@
-# 🏆 Alfred's README
-
 ## 👾🚀 Welcome to My Digital Realm! 🌌  
 ### 🦄 Solana Dev ⚡ | Web & App Dev 💻 | Crypto Enthusiast ₿ | Gamer 🎮 | Builder 💯  
 
